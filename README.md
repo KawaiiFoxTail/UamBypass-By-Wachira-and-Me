@@ -2,6 +2,6 @@
 
 How to Use
 
-node uambypass.js <url> <time> <ConnectPerThread> <proxies> <thread>
+node uambypass.js url time ConnectPerThread proxies thread
 
 thread is 1 
